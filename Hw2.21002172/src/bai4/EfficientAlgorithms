@@ -1,0 +1,41 @@
+TH1: n = 10
+Thuật toán Bubble sort:
+    +) Số lần so sánh: 45
+    +) Số lần đổi chỗ: 22
+    +) Thời gian chạy: 32919500
+Thuật toán Selection sort:
+    +) Số lần so sánh: 16
+    +) Số lần đổi chỗ: 8
+    +) Thời gian chạy: 13919400
+Thuật toán insertion sort:
+    +) Số lần so sánh:7
+    +) Số lần đổi chỗ: 17
+    +) Thời gian chạy: 11559100
+
+TH2: n = 20
+Thuật toán Bubble sort:
+    +) Số lần so sánh: 190
+    +) Số lần đổi chỗ: 93
+    +) Thời gian chạy: 46783000
+Thuật toán Selection sort:
+    +) Số lần so sánh: 36
+    +) Số lần đổi chỗ: 18
+    +) Thời gian chạy: 25348200
+Thuật toán insertion sort:
+    +) Số lần so sánh:106
+    +) Số lần đổi chỗ: 126
+    +) Thời gian chạy: 46704100
+
+TH3: n = 50
+Thuật toán Bubble sort:
+    +) Số lần so sánh: 1225
+    +) Số lần đổi chỗ: 634
+    +) Thời gian chạy: 87882000
+Thuật toán Selection sort:
+    +) Số lần so sánh: 123
+    +) Số lần đổi chỗ: 44
+    +) Thời gian chạy: 23950700
+Thuật toán insertion sort:
+    +) Số lần so sánh: 644
+    +) Số lần đổi chỗ: 694
+    +) Thời gian chạy: 175152600

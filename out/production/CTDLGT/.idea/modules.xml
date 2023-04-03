@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CTDLGT.iml" filepath="$PROJECT_DIR$/.idea/CTDLGT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hw1.21002172/Hw1.21002172.iml" filepath="$PROJECT_DIR$/Hw1.21002172/Hw1.21002172.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hw2.21002172/Hw2.21002172.iml" filepath="$PROJECT_DIR$/Hw2.21002172/Hw2.21002172.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baitap1/baitap1.iml" filepath="$PROJECT_DIR$/baitap1/baitap1.iml" />
+    </modules>
+  </component>
+</project>

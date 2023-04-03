@@ -1,0 +1,41 @@
+TH1: n = 10
+Thuật toán 1:
+    +) Số lần so sánh: 637
+    +) Số lần đổi chỗ: 637
+    +) Thời gian chạy:
+Thuật toán 2:
+    +) Số lần so sánh:
+    +) Số lần đổi chỗ:
+    +) Thời gian chạy:
+Thuật toán 3:
+    +) Số lần so sánh:
+    +) Số lần đổi chỗ:
+    +) Thời gian chạy:
+
+TH2: n = 20
+Thuật toán 1:
+    +) Số lần so sánh:
+    +) Số lần đổi chỗ:
+    +) Thời gian chạy:
+Thuật toán 2:
+    +) Số lần so sánh:
+    +) Số lần đổi chỗ:
+    +) Thời gian chạy:
+Thuật toán 3:
+    +) Số lần so sánh:
+    +) Số lần đổi chỗ:
+    +) Thời gian chạy:
+
+TH3: n = 50
+Thuật toán Bubble sort:
+    +) Số lần so sánh: 637
+    +) Số lần đổi chỗ: 637
+    +) Thời gian chạy: 87882000
+Thuật toán Selection sort:
+    +) Số lần so sánh: 44
+    +) Số lần đổi chỗ: 123
+    +) Thời gian chạy: 23950700
+Thuật toán insertion sort:
+    +) Số lần so sánh: 637
+    +) Số lần đổi chỗ: 637
+    +) Thời gian chạy: 87882000
